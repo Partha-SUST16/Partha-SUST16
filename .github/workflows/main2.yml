@@ -1,4 +1,6 @@
+
 name: Create Pull Request on Update 
+
 on:
   push:
     branches:
@@ -12,7 +14,7 @@ jobs:
           ref: main
       - name: Reset main branch
         run: |
-          git fetch origin master:master
+          git fetch origin master
           git reset --hard master
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
