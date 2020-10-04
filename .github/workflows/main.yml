@@ -11,10 +11,9 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@main
+      - uses: Partha-SUST16/waka-readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API }}
           GH_TOKEN: ${{ secrets.GH_TOKEN}}
-          USERNAME: Partha-SUST16
           SHOW_PROJECTS : false
           SHOW_LOC_CHART : false
