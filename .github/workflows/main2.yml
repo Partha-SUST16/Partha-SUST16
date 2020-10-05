@@ -2,7 +2,7 @@ name: Update Report
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   updateContent:
     runs-on: ubuntu-latest
