@@ -19,4 +19,4 @@ jobs:
           commit-message: update Report
           title: Update Report
           body: Content Updated
-          branch: main
+          branch: master
