@@ -1,22 +1,22 @@
-
-name: Create Pull Request on Update 
-
+name: Update Report
 on:
   push:
     branches:
       - master
 jobs:
-  productionPromotion:
+  updateContent:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: main
-      - name: Reset main branch
+          fetch-depth: 0
+      - name: Update Report
         run: |
-          git fetch origin
-          git reset --hard master
+          git log --format='%aN <%aE>%n%cN <%cE>' | sort -u > Report
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          branch: master
+          commit-message: update Report
+          title: Update Report
+          body: Content Updated
+          branch: main
