@@ -34,8 +34,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=partha-sust16&show_icons=true&locale=en&layout=compact" alt="partha-sust16" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **I'm a Night 🦉** 
 
 ```text
