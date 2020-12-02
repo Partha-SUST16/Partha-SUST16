@@ -4,7 +4,7 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=partha-sust16&label=Profile%20views&color=0e75b6&style=flat" alt="partha-sust16" /> </p>
 
-- 🔭 I’m currently working on **Auto Scaling Cloud Application, Microservice Architechture and MessageBus**
+- 🔭 I’m currently working on **Auto Scaling Cloud Application, Microservice architecture and MessageBus**
 
 - 🌱 I’m currently learning **Angular, .NET**
 
