@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Auto Scaling Cloud Application**
 
-- 👨‍💻 All of my projects are available at [Partha-SUST16](Partha-SUST16)
+- 👨‍💻 Most of my projects are available Here 
 
 - 💬 Ask me about **React, Angular, C#**
 
