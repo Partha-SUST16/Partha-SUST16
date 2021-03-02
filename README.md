@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Partha Protim Paul</h1>
-<h3 align="center">I am Passionate for competitive programming and solving programming problems with logical and analytical skills using data structure and algorithm knowledge. I love to work with new architechure & brain stroming.</h3>
+<h3 align="center">I am Passionate for competitive programming and solving programming problems with logical and analytical skills using data structure and algorithm knowledge. I love to work with new architechure & brain storming.</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=partha-sust16&label=Profile%20views&color=0e75b6&style=flat" alt="partha-sust16" /> </p>
