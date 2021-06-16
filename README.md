@@ -33,25 +33,25 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-🌆 Daytime    236 commits    ████████████░░░░░░░░░░░░░   48.96% 
-🌃 Evening    128 commits    ██████░░░░░░░░░░░░░░░░░░░   26.56% 
-🌙 Night      109 commits    █████░░░░░░░░░░░░░░░░░░░░   22.61%
+🌞 Morning    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
+🌆 Daytime    236 commits    ████████████░░░░░░░░░░░░░   47.68% 
+🌃 Evening    133 commits    ██████░░░░░░░░░░░░░░░░░░░   26.87% 
+🌙 Night      117 commits    ██████░░░░░░░░░░░░░░░░░░░   23.64%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Tuesday      237 commits    ████████████░░░░░░░░░░░░░   49.17% 
-Wednesday    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
-Thursday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
-Friday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.68% 
-Sunday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0%
+Monday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+Tuesday      237 commits    ████████████░░░░░░░░░░░░░   47.88% 
+Wednesday    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+Thursday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
+Friday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
+Saturday     43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.69% 
+Sunday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
 
 ```
 
@@ -62,15 +62,15 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               8 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   34.21% 
-C#                       7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   30.41% 
-Other                    3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-SQL                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
-JSON                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.97%
+C#                       10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   36.37% 
+TypeScript               9 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.23% 
+Other                    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+SQL                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
+HTML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
 
 ```
 
 
- Last Updated on 15/06/2021
+ Last Updated on 16/06/2021
 <!--END_SECTION:waka-->
 
