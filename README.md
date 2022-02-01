@@ -62,11 +62,11 @@ Sunday       43 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/01/2022 00:26:45 UTC
+ Last Updated on 01/02/2022 00:29:28 UTC
 <!--END_SECTION:waka-->
 
