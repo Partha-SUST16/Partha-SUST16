@@ -4,13 +4,13 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=partha-sust16&label=Profile%20views&color=0e75b6&style=flat" alt="partha-sust16" /> </p>
 
-- 🔭 I’m currently working on **Auto Scaling Cloud Application, Microservice architecture and MessageBus**
+- 🔭 I’m currently working on **Automated Program Repair, Software Testing, Human-Computer Interaction**
 
-- 🌱 I’m currently learning **Angular, .NET**
+- 🌱 I’m currently learning **Angular, .NET, Machine Learning, Python**
 
-- 👯 I’m looking to collaborate on **Auto Scaling Cloud Application**
+- 👯 I’m looking to collaborate on these research topics **Automated Program Repair, Software Testing, Human-Computer Interaction**
 
-- 🤝 I’m looking for help with **Auto Scaling Cloud Application**
+- 🤝 I’m looking for help with my research in **Automated Program Repair, Software Testing, Human-Computer Interaction**
 
 - 👨‍💻 Most of my projects are available Here 
 
