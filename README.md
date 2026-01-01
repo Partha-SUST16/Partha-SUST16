@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **ppartha101@gmail.com**
 
-- ⚡ Fun fact **None**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/partha-protim-paul-6039a4148/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/partha-protim-paul-6039a4148/" height="30" width="40" /></a>
