@@ -1,22 +1,45 @@
-<h1 align="center">Hi 👋, I'm Partha Protim Paul</h1>
-<h3 align="center">I am Passionate for competitive programming and solving programming problems with logical and analytical skills using data structure and algorithm knowledge. I love to work with new architechure & brain storming.</h3>
+<h1 align="center">Partha Protim Paul</h1>
+<h3 align="center">Backend Engineer · MS CS @ UBC · Graduating Fall 2026</h3>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=partha-sust16&label=Profile%20views&color=0e75b6&style=flat" alt="partha-sust16" /> </p>
+<p align="center">
+I have experience building backend systems and agentic AI pipelines for production.
+Several years of industry experience across .NET, Angular, TypeScript, Python, distributed systems, and Agentic Workflows.
+Currently researching software testing and engineering tooling at UBC, Vancouver under Prof. Reid Holmes.
+</p>
 
-- 🔭 I’m currently working on **Software Testing, Agentic Frameworks**
+---
 
-- 🌱 I’m currently learning **Angular, .NET, Agentic Frameworks, Python**
+### 🔧 What I Work With
 
-- 👯 I’m looking to collaborate on these research topics **Automated Program Repair, Software Testing**
+**Languages**
+TypeScript · JavaScript · Python · C#
 
-- 🤝 I’m looking for help with my research in **Automated Program Repair, Software Testing**
+**Backend & Systems**
+Node.js · REST APIs · GraphQL · Microservices · Domain Driven Design · Actor Architecture · GeoHashing · Test Driven Development
 
-- 👨‍💻 Most of my projects are available Here 
+**AI & Agents**
+Agentic Pipelines · LLM Integration · Semantic Search · Kernel Library · Langchain · Langgraph
 
-- 💬 Ask me about **React, Angular, C#**
+**Databases & Caching**
+PostgreSQL · MongoDB · MySQL · Redis
 
-- 📫 How to reach me **ppartha101@gmail.com**
+**Messaging & Infrastructure**
+RabbitMQ · Docker · Git
+
+**Testing & Research**
+Jest · Selenium · Software Testing · Automated Program Repair
+
+---
+
+### 🎯 Currently
+
+- 🔭 MS research in **Automated Program Repair & Software Testing** @ UBC
+- 🤝 Open to collaborate on **Software Testing & Agentic AI** research
+- 📬 Graduating **Fall 2026** 
+
+---
+
+📩 ppartha101@gmail.com
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
