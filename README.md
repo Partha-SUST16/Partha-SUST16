@@ -12,7 +12,7 @@ Currently researching software testing and engineering tooling at UBC, Vancouver
 ### 🔧 What I Work With
 
 **Languages**
-TypeScript · JavaScript · Python · C#
+C# · Java · TypeScript · JavaScript · Python 
 
 **Backend & Systems**
 .NET, Node.js · REST APIs · GraphQL · Microservices · Domain Driven Design · Actor Architecture · GeoHashing · Test Driven Development
