@@ -15,7 +15,7 @@ Currently researching software testing and engineering tooling at UBC, Vancouver
 TypeScript · JavaScript · Python · C#
 
 **Backend & Systems**
-Node.js · REST APIs · GraphQL · Microservices · Domain Driven Design · Actor Architecture · GeoHashing · Test Driven Development
+.NET, Node.js · REST APIs · GraphQL · Microservices · Domain Driven Design · Actor Architecture · GeoHashing · Test Driven Development
 
 **AI & Agents**
 Agentic Pipelines · LLM Integration · Semantic Search · Kernel Library · Langchain · Langgraph
