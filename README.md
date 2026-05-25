@@ -4,7 +4,7 @@
 <p align="center">
 I have experience building backend systems and agentic AI pipelines for production.
 Several years of industry experience across .NET, Angular, TypeScript, Python, distributed systems, and Agentic Workflows.
-Currently researching software testing and engineering tooling at UBC, Vancouver under Prof. Reid Holmes.
+Currently researching on software testing and agentic tooling at UBC, Vancouver under Prof. Reid Holmes.
 </p>
 
 ---
