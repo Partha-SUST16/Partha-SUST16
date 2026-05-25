@@ -27,7 +27,7 @@ PostgreSQL · MongoDB · MySQL · Redis
 RabbitMQ · Docker · Git
 
 **Testing & Research**
-Jest · Selenium · Software Testing · Automated Program Repair
+Jest · Selenium · JUnit · xUnit · Software Testing · Automated Program Repair
 
 ---
 
