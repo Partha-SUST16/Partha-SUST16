@@ -15,25 +15,25 @@ Currently researching software testing and engineering tooling at UBC, Vancouver
 C# · Java · TypeScript · JavaScript · Python 
 
 **Backend & Systems**
-.NET, Node.js · REST APIs · GraphQL · Microservices · Domain Driven Design · Actor Architecture · GeoHashing · Test Driven Development
+.NET, Node.js · REST APIs · GraphQL · Microservices · Domain Driven Development · Actor Architecture · GeoHashing · Test Driven Development
 
 **AI & Agents**
-Agentic Pipelines · LLM Integration · Semantic Search · Kernel Library · Langchain · Langgraph
+Agentic Pipelines · LLM Integration · Semantic Search · Kernel Library · Langchain · LangGraph
 
 **Databases & Caching**
 PostgreSQL · MongoDB · MySQL · Redis
 
 **Messaging & Infrastructure**
-RabbitMQ · Docker · Git
+RabbitMQ · Kafka · Pub/Sub · Docker · Git
 
 **Testing & Research**
-Jest · Selenium · JUnit · xUnit · Software Testing · Automated Program Repair
+Jest · Selenium · JUnit · xUnit · Program Analysis · Software Testing · Automated Program Repair
 
 ---
 
 ### 🎯 Currently
 
-- 🔭 MS research in **Automated Program Repair & Software Testing** @ UBC
+- 🔭 MS research in **Software Testing & Automated Program Repair** @ UBC
 - 🤝 Open to collaborate on **Software Testing & Agentic AI** research
 - 📬 Graduating **Fall 2026** 
 
